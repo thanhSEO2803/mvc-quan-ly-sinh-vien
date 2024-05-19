@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BT_QUANLYSINHVIEN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea00b5715cfc668d0a0b0e66a547e9e8bc73d9f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BT_QUANLYSINHVIEN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BT_QUANLYSINHVIEN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
